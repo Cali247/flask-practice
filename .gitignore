@@ -1,0 +1,8 @@
+# Local config with real secrets / machine-specific values
+config/settings.local.env
+
+# Local databases and data that should not be in Git
+data/
+
+# Temp files, caches, etc.
+tmp/
